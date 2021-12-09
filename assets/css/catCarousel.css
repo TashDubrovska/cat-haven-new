@@ -1,0 +1,9 @@
+.cat-carousel .carousel-caption {
+  width: 100%;
+  left: 0;
+}
+
+.cat-carousel--narrow {
+  width: 80%;
+  margin: 0 auto;
+}
